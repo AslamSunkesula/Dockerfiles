@@ -1,2 +1,2 @@
 From almalinux:8
-RUN yum install nignx -y 
+RUN yum update nignx -y 
