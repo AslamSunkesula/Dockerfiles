@@ -1,4 +1,4 @@
 FROM almalinux:8
 LABEL COURSE=DevOps\
       TRAINER=SIVA\
-      STUDENT=ASLAM
+      STUDENT=ASLAM             
